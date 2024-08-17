@@ -39,5 +39,5 @@ Acknowledgements
 Dataset: UCI Machine Learning Repository - Breast Cancer Wisconsin (Diagnostic) Data Set
 Scikit-Learn: Python's machine learning library, used for implementing the Logistic Regression model.
 Contact
-For any questions or inquiries, please contact me at prakritikimothi@example.com.
+For any questions or inquiries, please contact me at prakritikimothi@gmail.com.
 
